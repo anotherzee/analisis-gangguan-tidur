@@ -1,0 +1,14 @@
+# Analisis Gangguan Tidur dan Gaya Hidup
+
+## Anggota Kelompok
+1. Juju Ika Arnadia (15240211)
+2. Chalista Nurrafa Marjan (15240848)
+3. Lidya Tri Agustin (15240185)
+
+## Deskripsi Proyek
+Analisis data gangguan tidur (Sleep Apnea dan Insomnia) berdasarkan faktor gaya hidup menggunakan Python.
+
+## Hasil Utama
+- Model Random Forest dengan akurasi 82-85%
+- Faktor paling berpengaruh: Kualitas Tidur dan Tingkat Stres
+- Rekomendasi: Fokus pada manajemen stres dan penurunan berat badan
